@@ -115,7 +115,7 @@ body {
 }
 
 main {
-  background: url(../img/Background.png) no-repeat;
+/*   background: url(../img/Background.png) no-repeat; */
   background-size: cover;
   height: 100vh;
   background-attachment: fixed;
