@@ -264,10 +264,6 @@
     -webkit-background-attachment: fixed;
     background-attachment: fixed;
   }
-  #myVideo {
-    display: none;
-    position: relative;
-  }
   .p2 {
     bottom: -10px;
   }
