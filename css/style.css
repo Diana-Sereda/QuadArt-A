@@ -80,11 +80,11 @@ body {
   background: #1c1c1c;
   scrollbar-width: none;
   width: 100vw;
-  -webkit-user-select: none;
+/*   -webkit-user-select: none;
   -webkit-touch-callout: none;
   -moz-user-select: none;
   -ms-user-select: none;
-  user-select: none;
+  user-select: none; */
 }
 
 .cursor {
